@@ -5,8 +5,8 @@
         "stadium": {
             "name": "Estadio Jornalista Mário Filho (Maracanã)",
             "location": "Rio de Janeiro, Brazil",
-            "nearestAirport": "Santos Dummond Airport",
-            "nearestHotel": "Copacabana Palace Hotel"
+            "nearestAirport": "Santos Dumont Airport",
+            "nearestHotel": "Ibis Rio de Janeiro Santos Dumont"
         }
     },
     {
@@ -15,188 +15,337 @@
         "stadium": {
             "name": "Wembley Stadium",
             "location": "London, England",
-            "nearestAirport": "London Airport",
-            "nearestHotel": "London Airport Hotel"
+            "nearestAirport": "London Heathrow Airport",
+            "nearestHotel": "Hilton Garden Inn London"
         }
     },
     {
         "id": "1436",
         "name": "Iran",
-        "stadium": "Azadi Stadium",
-        "location": "Azadi Stadium"
+        "stadium": {
+            "name": "Azadi Stadium",
+            "location": "Tehran",
+            "nearestAirport": "Mehrabad Airport",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "2685",
         "name": "Wales",
         "stadium": "Principality Stadium",
-        "location": "Principality Stadium"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1849",
         "name": "USA",
         "stadium": "",
-        "location": ""
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1460",
         "name": "Senegal",
         "stadium": "Stade Léopold Sédar Senghor",
-        "location": "Stade Léopold Sédar Senghor"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1649",
         "name": "Netherlands",
         "stadium": "Johan Cruijff Arena",
-        "location": "Johan Cruijff Arena"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1847",
         "name": "Ecuador",
         "stadium": "Estadio Olímpico Atahualpa",
-        "location": "Estadio Olímpico Atahualpa"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1427",
         "name": "Qatar",
         "stadium": "Khalifa International Stadium",
-        "location": "Khalifa International Stadium"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1432",
         "name": "Saudi Arabia",
         "stadium": "King Fahd International Stadium",
-        "location": "King Fahd International Stadium"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1459",
         "name": "Poland",
         "stadium": "Stadion Narodowy",
-        "location": "Stadion Narodowy"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1450",
         "name": "Mexico",
         "stadium": "",
-        "location": ""
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1443",
         "name": "Argentina",
         "stadium": "Estadio Monumental Antonio Vespucio Liberti",
-        "location": "Estadio Monumental Antonio Vespucio Liberti"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1439",
         "name": "France",
         "stadium": "Stade de France",
-        "location": "Stade de France"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1455",
         "name": "Tunisia",
         "stadium": "Stade Olympique de Radès",
-        "location": "Stade Olympique de Radès"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1442",
         "name": "Denmark",
         "stadium": "Telia Parken",
-        "location": "Telia Parken"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1440",
         "name": "Australia",
         "stadium": "ANZ Stadium",
-        "location": "ANZ Stadium"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1438",
         "name": "Spain",
         "stadium": "Estadio Santiago Bernabéu",
-        "location": "Estadio Santiago Bernabéu"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1458",
         "name": "Japan",
         "stadium": "National Olympic Stadium",
-        "location": "National Olympic Stadium"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1449",
         "name": "Germany",
         "stadium": "Olympiastadion Berlin",
-        "location": "Olympiastadion Berlin"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1446",
         "name": "Costa Rica",
         "stadium": "",
-        "location": ""
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1453",
         "name": "Belgium",
         "stadium": "Stade Roi Baudouin",
-        "location": "Stade Roi Baudouin"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "211",
         "name": "Croatia",
         "stadium": "Stadion Maksimir",
-        "location": "Stadion Maksimir"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1435",
         "name": "Morocco",
         "stadium": "Stade Mohamed V",
-        "location": "Stade Mohamed V"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1674",
         "name": "Canada",
         "stadium": "",
-        "location": ""
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "208",
         "name": "Switzerland",
         "stadium": "St. Jakob-Park",
-        "location": "St. Jakob-Park"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "2711",
         "name": "Cameroon",
         "stadium": "Stade Omnisport Ahmadou Ahidjo",
-        "location": "Stade Omnisport Ahmadou Ahidjo"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1447",
         "name": "Serbia",
         "stadium": "Stadion Rajko Mitić",
-        "location": "Stadion Rajko Mitić"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1437",
         "name": "Portugal",
         "stadium": "Estádio Nacional",
-        "location": "Estádio Nacional"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1452",
         "name": "South Korea",
         "stadium": "Seoul World Cup Stadium",
-        "location": "Seoul World Cup Stadium"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "1434",
         "name": "Uruguay",
         "stadium": "Estadio Centenario",
-        "location": "Estadio Centenario"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     },
     {
         "id": "214",
         "name": "Ghana",
         "stadium": "Ohene Djan Sports Stadium",
-        "location": "Ohene Djan Sports Stadium"
+        "stadium": {
+            "name": "",
+            "location": "",
+            "nearestAirport": "",
+            "nearestHotel": ""
+        }
     }
 ]
